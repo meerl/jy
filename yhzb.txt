@@ -487,9 +487,8 @@ J2,P2p://ns1.hellotvvod.com:9906/9450745386b54265a8545207642f6ef3
 无线财经·资讯台,P2p://ns1.hellotvvod.com:9906/d93d3975e202442b9236ab9efb7ccaed
 ViuTVsix,P2p://ns1.hellotvvod.com:9906/ccfc5b06a2b2416b87751797039b5571
 ViuTV,P2p://ns1.hellotvvod.com:9906/6a8301b74ec445f1b409dd7f7c1d29c0
-凤凰中文台,P2p://ns1.hellotvvod.com:9906/83f91e289db74fb784e7c85cc2700e84
-凤凰资讯台,P2p://ns1.hellotvvod.com:9906/64fd39ea43ea442da01a0724358159b5
-凤凰香港台,P2p://ns1.hellotvvod.com:9906/6e93395708f048d6b6545664e69fc7b3
+凤凰中文台,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯台,https://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 TVB星河(粤),P2p://ns1.hellotvvod.com:9906/2a630ce6882040bcb88adb2fe8eeb27d
 阳光卫视,P2p://ns1.hellotvvod.com:9906/b2a693dd08964a62a0298fe6e07a4197
 澳门-MACAU,P2p://ns1.hellotvvod.com:9906/e106a80716d8492a909067e05859bc6e
